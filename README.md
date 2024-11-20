@@ -10,5 +10,5 @@ A basic replica of Amazon's website, showcasing a home page, shopping cart, orde
 </ol>
 <br>
 <hr>
-<h1>Link:</h1>
-<a href="https://khushigc25.github.io/amazon-javascript/amazon.html">amazon-javascript</a>
+<h1>Link to the website:</h1>
+<a href="https://amazon-javascript.netlify.app/">amazon-javascript</a>
